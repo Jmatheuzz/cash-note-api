@@ -1,2 +1,2 @@
 # cash-note-api
-Uma API Spring Boot voltada para serviços de finanças pessoais.
+Uma API Nodejs voltada para serviços de finanças pessoais.
