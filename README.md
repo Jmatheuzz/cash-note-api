@@ -1,2 +1,2 @@
 # cash-note-api
-Uma API Nodejs voltada para serviços de finanças pessoais.
+Uma API Node.js voltada para serviços de finanças pessoais.
